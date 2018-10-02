@@ -1,5 +1,5 @@
 SPK_NAME = deluge
-SPK_VERS = 1.3.15
+SPK_VERS = 2.0b1
 SPK_REV = 9
 SPK_ICON = src/deluge.png
 BETA = 1
